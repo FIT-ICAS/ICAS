@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ICAS Intersection.unity
+  isLoaded: 1
+  isActive: 1
